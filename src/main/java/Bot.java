@@ -92,7 +92,7 @@ public class Bot extends TelegramLongPollingBot { //наследуем клас�
     } // возвращает имя бота
 
     public String getBotToken() {
-        return "1724032748:AAHo3ROCg4_ujOt_SOETZUXgxzdSxnB4rl0";
+        return "Token";
     }//возвращает токен для доступа к API телеги
 }
 
